@@ -1,11 +1,14 @@
-# web-dev-template
+# About Me
+   * Fun fact: Recently MCed for ODSC 2017 Boston and hosted folks from Amazon, Google and DataRobot
 
-1. git clone https://github.com/jannunzi/web-dev-template.git
-  * sub heading
-1. cd web-dev-template
-   * unordered sub heading
-1. npm install
-   1. ordered sub heading
-1. mongod
-1. node server.js
-1. browse to localhost:3000
+## Bio
+   * Northeastern MS Computer Science student
+   * A data science enthusiast
+   * Designed Search Engine and wrote white paper on text classification
+   * Worked at Accenture
+   * Currently learning Web Development and Java
+
+## Profile
+   * Link to my [LinkedIn profile](https://www.linkedin.com/in/saurabhsingh13nov "Homepage LinkedIn")
+   
+   
