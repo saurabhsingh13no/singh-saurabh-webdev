@@ -1,4 +1,4 @@
-# About Me
+## About Me
    * Fun fact: Recently MCed for ODSC 2017 Boston and hosted folks from Amazon, Google and DataRobot
 
 ## Bio
