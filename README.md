@@ -1,7 +1,7 @@
 # web-dev-template
 
 1. git clone https://github.com/jannunzi/web-dev-template.git
-..*subu heading
+  *subu heading
 1. cd web-dev-template
 1. npm install
 1. mongod
