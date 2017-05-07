@@ -7,6 +7,15 @@
    * Designed Search Engine and wrote white paper on text classification
    * Worked at Accenture
    * Currently learning Web Development and Java   
+   
+### Repository Purpose
+   * Build Application using 
+   ```javascript
+   MongoDB
+   ExpressJS
+   AngularJS
+   NodeJS
+   ```   
 
 ### Profile
    * Link to my [LinkedIn profile](https://www.linkedin.com/in/saurabhsingh13nov "Homepage LinkedIn")
