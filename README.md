@@ -9,7 +9,7 @@
    * Currently learning Web Development and Java   
    
 ## Repository Purpose
-   * Build a web application using **MEAN Stack**. The technoologies used are listed below. 
+   * Build a web application using **MEAN Stack**. The technoologies to be used are listed below. 
    
    | Technology | Purpose|
    |----------- |:------:|
