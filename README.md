@@ -10,6 +10,7 @@
    
 ## Repository Purpose
    * Build a web application using **MEAN Stack**. The technoologies used are listed below. 
+   
    | Technology | Purpose|
    |----------- | ------:|
    | MongoDB    | A NoSQL database service to be used for data hosting  |
