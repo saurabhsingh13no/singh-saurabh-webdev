@@ -13,6 +13,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Jose G. Annunziato",
-  "license": "ISC"
+  "author": "Saurabh Singh",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhsingh13no/singh-saurabh-webdev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saurabhsingh13no/singh-saurabh-webdev/issues"
+  },
+  "homepage": "https://github.com/saurabhsingh13no/singh-saurabh-webdev#readme"
 }
