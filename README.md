@@ -19,7 +19,7 @@
    | Node JS    | A JavaScript run-time environment to be used to run JS server side |
    
 ## Important Links
-   * [Website Link](https://polar-bastion-99673.herokuapp.com/ "Homepage Heroku") to the application hosted on Heroku
+   * [Website Link](https://singh-saurabh-webdev.herokuapp.com/ "Homepage Heroku") to the application hosted on Heroku
    * [Project Link](https://github.com/saurabhsingh13no/singh-saurabh-webdev "Self pointing link") to the group project
    * [Assignment Link](https://github.com/saurabhsingh13no/singh-saurabh-webdev "Self pointing link") to the submitted assignments till date
 
