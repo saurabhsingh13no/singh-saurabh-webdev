@@ -20,8 +20,8 @@
    
 ## Important Links
    * [Website Link](https://singh-saurabh-webdev.herokuapp.com/ "Homepage Heroku") to the application hosted on Heroku
-   * [Project Link](https://github.com/saurabhsingh13no/singh-saurabh-webdev "Self pointing link") to the group project
-   * [Assignment Link](https://github.com/saurabhsingh13no/singh-saurabh-webdev "Self pointing link") to the submitted assignments till date
+   * [Project Link](https://singh-saurabh-webdev.herokuapp.com/project/index.html "Self pointing link") to the group project
+   * [Assignment Link](https://singh-saurabh-webdev.herokuapp.com/assignment/index.html "Self pointing link") to the submitted assignments till date
 
 ## Profile
    * Link to my [LinkedIn profile](https://www.linkedin.com/in/saurabhsingh13nov "Homepage LinkedIn")
